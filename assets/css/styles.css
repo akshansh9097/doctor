@@ -62,7 +62,7 @@
   background-color: var(--bs-color-white);
   border: none;
   border-radius: 3rem;
-  padding: 11px 45px;
+  padding: 11px 24px;
   border: 1px solid var(--bs-color-white);
   color: var(--bs-blue);
   font-size: 15px;
@@ -133,7 +133,7 @@ opacity: .9;
  object-fit: contain;
 }
 .pro-img img{
-  width: 92%;
+  width: 87%;
   height: 100%;
     /* margin-bottom: 14px; */
     /* height: 60px; */
@@ -223,8 +223,8 @@ opacity: .9;
   /* margin: 2px; */
 }
 .stars-2 img {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   /* border: 2px solid rgb(0, 38, 119); */
   margin:0 2px;
@@ -468,7 +468,7 @@ background-color: #071f6d;
 }
 
 @media (width: 1024px) {
-.leftsection{
+/* .leftsection{
   display: block;
 
 }
@@ -476,7 +476,7 @@ background-color: #071f6d;
   width: 100%;
   margin-top: 12px;
 
-}
+} */
 .overlap-image-container {
   
   left: 5rem;
